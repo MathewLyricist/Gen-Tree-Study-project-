@@ -43,11 +43,19 @@ Java 2D для отрисовки дерева
 
 Структура проекта
 ├── EvolutionSimulator.java   // Точка входа, главное окно
+
 ├── EvolutionEngine.java      // Движок симуляции (логика эволюции)
+
 ├── Human.java                // Модель особи (признаки, наследование, fitness)
+
 ├── ControlPanel.java         // Панель управления
+
 ├── DetailsPanel.java         // Панель деталей выбранной особи
+
 ├── PopulationPanel.java      // Таблица популяции и статистика
+
 ├── GenealogyTreePanel.java   // Интерактивное дерево всех особей
+
 ├── FamilyTreeDialog.java     // Диалог полного семейного дерева
+
 └── (опционально) man.jpeg, woman.jpeg
